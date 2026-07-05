@@ -218,7 +218,7 @@ It is **not a substitute for professional medical advice**. Users should consult
 
 # 👨‍💻 Developed For
 
-**IBM SkillsBuild Hackathon**
+**IBM SkillsBuild Internship**
 
 Problem Statement No.13
 
@@ -241,4 +241,4 @@ Problem Statement No.13
 
 # License
 
-This project is developed for educational and hackathon purposes.
+This project is developed for educational and Internship purposes.
