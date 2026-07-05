@@ -1,0 +1,222 @@
+{
+  "beginner": {
+    "full_body": [
+      {
+        "name": "Jumping Jacks",
+        "sets": 3,
+        "reps": "30 seconds",
+        "rest": "15 seconds",
+        "muscle_group": "Full Body",
+        "calories_burned": 8,
+        "equipment": "none",
+        "description": "Stand with feet together, jump while spreading arms and legs, then return.",
+        "tip": "Keep a slight bend in your knees to reduce joint impact."
+      },
+      {
+        "name": "Knee Push-Ups",
+        "sets": 3,
+        "reps": "10",
+        "rest": "60 seconds",
+        "muscle_group": "Chest, Shoulders, Triceps",
+        "calories_burned": 6,
+        "equipment": "none",
+        "description": "Push-up with knees on floor, maintaining straight back from knees to shoulders.",
+        "tip": "Keep your core tight and don't let hips sag."
+      },
+      {
+        "name": "Bodyweight Squats",
+        "sets": 3,
+        "reps": "15",
+        "rest": "60 seconds",
+        "muscle_group": "Quads, Glutes, Hamstrings",
+        "calories_burned": 7,
+        "equipment": "none",
+        "description": "Stand feet shoulder-width, lower until thighs are parallel to floor.",
+        "tip": "Keep chest up and knees tracking over toes."
+      },
+      {
+        "name": "Plank Hold",
+        "sets": 3,
+        "reps": "20 seconds",
+        "rest": "45 seconds",
+        "muscle_group": "Core",
+        "calories_burned": 5,
+        "equipment": "none",
+        "description": "Hold a push-up position on forearms, keeping body straight.",
+        "tip": "Breathe steadily and don't hold your breath."
+      },
+      {
+        "name": "Glute Bridge",
+        "sets": 3,
+        "reps": "15",
+        "rest": "45 seconds",
+        "muscle_group": "Glutes, Hamstrings",
+        "calories_burned": 5,
+        "equipment": "none",
+        "description": "Lie on back, feet flat, lift hips squeezing glutes at top.",
+        "tip": "Drive through your heels, not your toes."
+      }
+    ]
+  },
+  "intermediate": {
+    "full_body": [
+      {
+        "name": "Burpees",
+        "sets": 4,
+        "reps": "12",
+        "rest": "60 seconds",
+        "muscle_group": "Full Body",
+        "calories_burned": 15,
+        "equipment": "none",
+        "description": "Squat down, kick feet back to plank, do a push-up, jump feet forward, jump up.",
+        "tip": "Maintain proper form over speed to protect your lower back."
+      },
+      {
+        "name": "Standard Push-Ups",
+        "sets": 4,
+        "reps": "15",
+        "rest": "60 seconds",
+        "muscle_group": "Chest, Shoulders, Triceps",
+        "calories_burned": 9,
+        "equipment": "none",
+        "description": "Full push-up with toes on floor, lower chest to ground.",
+        "tip": "Squeeze your chest at the top of each rep."
+      },
+      {
+        "name": "Jump Squats",
+        "sets": 4,
+        "reps": "12",
+        "rest": "60 seconds",
+        "muscle_group": "Quads, Glutes, Calves",
+        "calories_burned": 12,
+        "equipment": "none",
+        "description": "Perform a squat then explode upward, landing softly.",
+        "tip": "Land with soft knees to absorb impact and protect joints."
+      },
+      {
+        "name": "Mountain Climbers",
+        "sets": 3,
+        "reps": "40 seconds",
+        "rest": "30 seconds",
+        "muscle_group": "Core, Shoulders",
+        "calories_burned": 10,
+        "equipment": "none",
+        "description": "In plank position, alternate driving knees to chest rapidly.",
+        "tip": "Keep hips level and don't let them rock side to side."
+      },
+      {
+        "name": "Reverse Lunges",
+        "sets": 3,
+        "reps": "12 each leg",
+        "rest": "60 seconds",
+        "muscle_group": "Quads, Glutes, Hamstrings",
+        "calories_burned": 9,
+        "equipment": "none",
+        "description": "Step backward and lower back knee toward floor, return to standing.",
+        "tip": "Keep front knee at 90 degrees and torso upright."
+      }
+    ]
+  },
+  "advanced": {
+    "full_body": [
+      {
+        "name": "Plyometric Push-Ups",
+        "sets": 4,
+        "reps": "10",
+        "rest": "90 seconds",
+        "muscle_group": "Chest, Shoulders, Triceps",
+        "calories_burned": 14,
+        "equipment": "none",
+        "description": "Push up with enough force for hands to leave floor at top.",
+        "tip": "Warm up thoroughly; stop if you feel wrist discomfort."
+      },
+      {
+        "name": "Pistol Squats",
+        "sets": 3,
+        "reps": "8 each leg",
+        "rest": "90 seconds",
+        "muscle_group": "Quads, Glutes, Balance",
+        "calories_burned": 12,
+        "equipment": "none",
+        "description": "Single-leg squat lowering until thigh is parallel to floor.",
+        "tip": "Use a wall or chair for support when learning this movement."
+      },
+      {
+        "name": "Handstand Hold (Wall)",
+        "sets": 3,
+        "reps": "20 seconds",
+        "rest": "90 seconds",
+        "muscle_group": "Shoulders, Core",
+        "calories_burned": 10,
+        "equipment": "wall",
+        "description": "Kick up to a handstand against a wall and hold.",
+        "tip": "Have a spotter for your first attempts at this exercise."
+      },
+      {
+        "name": "Dragon Flag",
+        "sets": 3,
+        "reps": "8",
+        "rest": "90 seconds",
+        "muscle_group": "Core",
+        "calories_burned": 11,
+        "equipment": "bench",
+        "description": "Lie on bench, grip behind head, lift legs and torso together.",
+        "tip": "Build up to this gradually; it requires significant core strength."
+      },
+      {
+        "name": "Box Jumps",
+        "sets": 4,
+        "reps": "10",
+        "rest": "60 seconds",
+        "muscle_group": "Quads, Glutes, Calves, Power",
+        "calories_burned": 15,
+        "equipment": "box or sturdy platform",
+        "description": "Jump explosively onto a box or platform, landing softly.",
+        "tip": "Step down (don't jump down) to protect knees and ankles."
+      }
+    ]
+  },
+  "warmup": [
+    {"name": "Arm Circles", "duration": "30 seconds", "description": "Large slow circles forward then backward."},
+    {"name": "Hip Rotations", "duration": "30 seconds", "description": "Hands on hips, rotate in large circles."},
+    {"name": "Leg Swings", "duration": "30 seconds each leg", "description": "Hold wall, swing leg forward and back."},
+    {"name": "Neck Rolls", "duration": "20 seconds", "description": "Gently roll neck side to side, never fully backward."},
+    {"name": "March in Place", "duration": "60 seconds", "description": "High knees marching to elevate heart rate."}
+  ],
+  "cooldown": [
+    {"name": "Standing Quad Stretch", "duration": "30 seconds each leg", "description": "Hold ankle behind, keep knees together."},
+    {"name": "Seated Hamstring Stretch", "duration": "30 seconds each leg", "description": "Sit, extend one leg, reach toward toes."},
+    {"name": "Child's Pose", "duration": "45 seconds", "description": "Kneel and extend arms forward, rest forehead on floor."},
+    {"name": "Cat-Cow Stretch", "duration": "60 seconds", "description": "On all fours, alternate arching and rounding back."},
+    {"name": "Deep Breathing", "duration": "60 seconds", "description": "Inhale for 4 counts, hold 4, exhale for 6."}
+  ],
+  "weekly_plan": {
+    "beginner": {
+      "Monday": "Full Body Strength",
+      "Tuesday": "Rest or Light Walk",
+      "Wednesday": "Core & Flexibility",
+      "Thursday": "Rest",
+      "Friday": "Full Body Strength",
+      "Saturday": "Cardio (20 min walk/jog)",
+      "Sunday": "Active Recovery (Yoga/Stretching)"
+    },
+    "intermediate": {
+      "Monday": "Upper Body Strength",
+      "Tuesday": "Lower Body Strength",
+      "Wednesday": "Cardio HIIT (20 min)",
+      "Thursday": "Core & Flexibility",
+      "Friday": "Full Body Strength",
+      "Saturday": "Cardio (30 min run/cycle)",
+      "Sunday": "Rest & Recovery"
+    },
+    "advanced": {
+      "Monday": "Push (Chest, Shoulders, Triceps)",
+      "Tuesday": "Pull (Back, Biceps)",
+      "Wednesday": "Legs & Glutes",
+      "Thursday": "HIIT Cardio + Core",
+      "Friday": "Upper Body Power",
+      "Saturday": "Lower Body Power + Plyometrics",
+      "Sunday": "Active Recovery"
+    }
+  }
+}

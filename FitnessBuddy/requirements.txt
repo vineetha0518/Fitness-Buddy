@@ -1,0 +1,13 @@
+Flask==3.0.3
+python-dotenv==1.0.1
+ibm-watsonx-ai==1.5.14
+# requests works with urllib3 2.1.x (pinned by ibm-cos-sdk)
+requests>=2.28.0
+gunicorn==22.0.0
+flask-cors==4.0.1
+# ibm-cos-sdk (pulled by ibm-watsonx-ai) requires urllib3 ~2.1.
+# Keep the range loose so both packages coexist without conflicts.
+urllib3>=2.0.0,<3
+# Explicitly declare pandas so pip uses the installed binary wheel
+# instead of trying to build from source.
+pandas>=2.0.0
